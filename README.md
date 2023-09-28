@@ -1,7 +1,7 @@
 # Hi 👋 I am Següy
 
 ## About Me
-I am a Full-Stack Engineer, currently looking for my next opportunity in tech. I previously worked at [Google](https://github.com/google), [Facebook](https://github.com/facebook) and [Adobe](https://github.com/adobe).
+I am a Software Engineer, currently looking for my next opportunity in tech. I previously worked at [Google](https://github.com/google), [Facebook](https://github.com/facebook) and [Adobe](https://github.com/adobe).
 I have an extensive experience in Trust and Safety, Commerce and Cloud fields.
 
 ### I code with:
