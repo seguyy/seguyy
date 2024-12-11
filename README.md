@@ -2,7 +2,10 @@
 
 ## About Me
 I am currently doing my Master's in Big Data Analytics at Carlos III de Madrid University. I previously worked at [Google](https://github.com/google), [Meta](https://github.com/facebook) and [Adobe](https://github.com/adobe).
-I have an extensive experience in Ads, Commerce and Cloud fields. I love working with data to provide valuable insights. I am also interested in AI :)
+
+I have an extensive experience in Ads, Commerce and Cloud fields. I love working with data to provide valuable insights. 
+
+I am also interested in AI and taking many interesting courses to improve my knowledge there :)
 
 ### I code with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
