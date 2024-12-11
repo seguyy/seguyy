@@ -1,7 +1,7 @@
 # Hi 👋 I am Següy
 
 ## About Me
-I am currently doing my Master's in Big Data Analytics at Carlos III de Madrid University. I previously worked at [Google](https://github.com/google), [Meta](https://github.com/facebook) and [Adobe](https://github.com/adobe).
+I am currently doing my Master's in Big Data Analytics at Carlos III de Madrid University. I previously worked at [Google](https://github.com/google), [Meta](https://github.com/facebook) and [Adobe](https://github.com/adobe) in San Francisco, CA.
 
 I have an extensive experience in Ads, Commerce and Cloud fields. I love working with data to provide valuable insights. 
 
