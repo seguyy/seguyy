@@ -1,11 +1,8 @@
 # Hi 👋 I am Següy
 
 ## About Me
-I am currently doing my Master's in Big Data Analytics at Carlos III de Madrid University. I previously worked at [Google](https://github.com/google), [Meta](https://github.com/facebook) and [Adobe](https://github.com/adobe) in San Francisco, CA.
+I'm a data science girl with a strong passion for AI, the kind of person who spends every day learning something new to stay ahead of the field. I recently completed my Master’s in Big Data Analytics and I previously worked at [Google](https://github.com/google), [Meta](https://github.com/facebook) and [Adobe](https://github.com/adobe) in San Francisco, CA, experiences that taught me how technology works at its core and inspired the curiosity and problem-solving spirit I carry into every project.
 
-I have an extensive experience in Ads, Commerce and Cloud fields. I love working with data to provide valuable insights. 
-
-I am also interested in AI and taking many interesting courses to improve my knowledge there :)
 
 ### I code with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
