@@ -1,7 +1,7 @@
 # Hi 👋 I am Següy
 
 ## About Me
-I'm a data scientist with a strong passion for AI, the kind of person who spends every day learning something new to stay ahead of the field. I recently completed my Master’s in Big Data Analytics and I previously worked at [Google](https://github.com/google), [Meta](https://github.com/facebook) and [Adobe](https://github.com/adobe) in San Francisco, CA, experiences that taught me how technology works at its core and inspired the curiosity and problem-solving spirit I carry into every project.
+I'm a data scientist with a strong passion for AI, the kind of person who spends every day learning something new to stay ahead of the field. I studied Computer Science and completed my Master’s in Big Data Analytics. Previously, I worked at [Google](https://github.com/google), [Meta](https://github.com/facebook) and [Adobe](https://github.com/adobe) in San Francisco, CA, experiences that taught me how technology works at its core and inspired the curiosity and problem-solving spirit I carry into every project.
 
 
 ### I code with:
